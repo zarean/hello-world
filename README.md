@@ -1,4 +1,3 @@
 # hello-world
-hello github
-
+hi github
 I,m Ali Zarean and I'm glad to meet you.
